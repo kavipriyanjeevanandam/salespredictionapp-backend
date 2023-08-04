@@ -1,0 +1,4 @@
+.env
+./files/UserData.csv
+__pycache__
+

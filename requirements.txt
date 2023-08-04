@@ -1,0 +1,9 @@
+scikit-learn
+statsmodels
+flask
+pymongo
+certifi
+python-dotenv
+Flask_Cors
+numpy
+pandas
